@@ -1,6 +1,6 @@
 # book-servlet_my
 
-基于改进版的Java Servlet（反射）/DBCP连接池/BootStrap的书籍管理系统部分模块
+基于改进版的Java Servlet（反射）/DBUtils+DBCP连接池/BootStrap的书籍管理系统部分模块
 
 1. 关系表(见table.sql)
    1. 书籍表
