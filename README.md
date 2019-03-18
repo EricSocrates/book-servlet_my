@@ -1,6 +1,6 @@
 # book-servlet_my
 
-基于Java Servlet/DBUtils+DBCP连接池/BootStrap的书籍管理系统部分模块
+使用Bootstrap、jQuery结合Servlet编写书籍管理系统部分模块
 
 1. 关系表(见table.sql)
    1. 书籍表
