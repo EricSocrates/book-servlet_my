@@ -1,0 +1,37 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="book-servlet_my:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/book_servlet_my_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="book-servlet_my/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="book-servlet_my" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/web/lib/ojdbc6.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/lib/jstl-1.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/lib/upload_bill.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/lib/commons-lang.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/lib/ezmorph-1.0.5.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/lib/commons-logging.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/lib/commons-dbcp-1.4.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/lib/commons-pool-1.6.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/lib/commons-beanutils.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/lib/json-lib-2.2-jdk15.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/lib/commons-collections.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/lib/commons-dbutils-1.6.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/lib/commons-collections-3.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/lib/standard.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/lib/morph-1.1.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/lib/xmlbeans-2.6.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/lib/poi-ooxml-3.12-20150511.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/lib/poi-examples-3.12-20150511.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/lib/poi-excelant-3.12-20150511.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/lib/poi-scratchpad-3.12-20150511.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/lib/poi-ooxml-schemas-3.12-20150511.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/lib/poi-3.12-20150511.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
